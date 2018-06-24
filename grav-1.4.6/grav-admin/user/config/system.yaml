@@ -32,7 +32,7 @@ pages:
   publish_dates: true
   process:
     markdown: true
-    twig: false
+    twig: true
   twig_first: false
   never_cache_twig: false
   events:
@@ -128,7 +128,7 @@ session:
   enabled: true
   initialize: true
   timeout: 1800
-  name: grav-site
+  name: cis-ss
   secure: false
   httponly: true
   split: true
