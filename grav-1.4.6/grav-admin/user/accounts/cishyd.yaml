@@ -1,0 +1,11 @@
+email: webmaster@ieeehyd.org
+fullname: 'CIS Hyderabad'
+title: 'Summer School'
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$wd4e3Bjevn5kUdamwlGiX.8xwfJrVZRccdLjlOqpOBd9ddNzPSUg.
