@@ -1,0 +1,5 @@
+{% include 'partials/header.html.twig' %}
+{% for module in page.collection() %}
+    {{ module.content }}
+{% endfor %}
+{% include 'partials/footer.html.twig' %}

@@ -1,0 +1,7 @@
+<section {% for attr, value in page.header.attrs %}{{ "#{attr}=\"#{value}\" " }}{% endfor %}>
+    <div class="container">
+        <div class="jumbotron">
+          {{ page.content }}
+        </div>
+    </div>
+</section>
