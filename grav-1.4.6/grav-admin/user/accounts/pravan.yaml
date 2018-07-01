@@ -1,0 +1,11 @@
+email: pravanpaturi@gmail.com
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: 'Sri Pravan Paturi'
+title: Volunteer
+state: enabled
+hashed_password: $2y$10$r1PSbUAmIqglG9TVlhpDyeB.c/m2CXAK4CMIDlElk4Cvp8SSQCE5.

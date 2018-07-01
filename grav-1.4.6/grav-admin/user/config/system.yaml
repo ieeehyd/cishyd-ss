@@ -1,5 +1,5 @@
 absolute_urls: false
-timezone: Asia/Colombo
+timezone: Asia/Kolkata
 param_sep: ':'
 wrapped_site: false
 reverse_proxy_setup: false
@@ -19,7 +19,7 @@ home:
   alias: /home
   hide_in_urls: false
 pages:
-  theme: quark
+  theme: cishydss
   order:
     by: default
     dir: asc
@@ -77,7 +77,7 @@ cache:
   enabled: true
   check:
     method: file
-  driver: redis
+  driver: auto
   prefix: g
   clear_images_by_default: true
   cli_compatibility: false
@@ -85,7 +85,7 @@ cache:
   gzip: false
   allow_webserver_gzip: false
 twig:
-  cache: true
+  cache: false
   debug: true
   auto_reload: true
   autoescape: false

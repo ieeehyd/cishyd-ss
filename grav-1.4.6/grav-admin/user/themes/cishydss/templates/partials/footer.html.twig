@@ -1,0 +1,21 @@
+ <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <iframe class="venue-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.6563931731703!2d78.4406593147834!3d17.428269906212225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb90d333154ddb%3A0xfcf718680e41f674!2sMuffakham+Jah+College+Of+Engineering+And+Technology!5e0!3m2!1sen!2sin!4v1530286029693" frameborder="0" style="border:0" allowfullscreen></iframe>
+          </div>
+        </div>
+        <div class="row copyright">
+          <div class="col">
+            <p>&copy; Copyrights 2018, IEEE Computational Intelligence Society Hyderabad.</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    {% do assets.addJs('theme://js/jquery-3.3.1.min.js', 103) %}
+    {% do assets.addJs('theme://js/popper.min.js', 102) %}
+    {% do assets.addJs('theme://js/bootstrap.min.js', 101) %}
+    {% do assets.addJs('theme://js/script.js', 100) %}
+    {{ assets.js() }}
+  </body>
+</html>

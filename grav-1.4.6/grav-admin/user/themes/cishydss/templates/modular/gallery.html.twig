@@ -1,0 +1,16 @@
+<section {% for attr, value in page.header.attrs %}{{ "#{attr}=\"#{value}\" " }}{% endfor %}>
+  <div class="container">
+    <h1 class="title">{{ page.header.title }}</h1>
+    {% for image_batch in page.header.images|batch(page.header.row_size) %}
+    <div class="row">
+      {% for image in image_batch %}
+      <div class="col">
+        {{ page.find('/img/' ~ page.header.image_dir).media[image.file] }}
+        <h5>{{ image.title }}</h5>
+        <p>{{ image.subtitle }}</p>
+      </div>
+      {% endfor %}
+    </div>
+    {% endfor %}
+  </div>
+</section>
