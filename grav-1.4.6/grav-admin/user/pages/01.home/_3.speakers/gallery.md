@@ -6,31 +6,31 @@ attrs:
 image_dir: speakers
 row_size: 3
 images:
-- file: janez-brent.png
-  title: 'Janez Brent'
+- file: janez-brest.png
+  title: 'Dr. Janez Brest'
   subtitle: 'University of Maribor, Slovenia'
 - file: pn-suganthan.jpg
-  title: 'P. N. Suganthan'
+  title: 'Dr. P. N. Suganthan'
   subtitle: 'NTU, Singapore'
 - file: mahardhika-pratama.jpg
-  title: 'Mahardhika Pratama'
+  title: 'Dr. Mahardhika Pratama'
   subtitle: 'NTU, Singapore'
 - file: sarangapani.jpg
-  title: 'Jagannathan Sarangapani'
+  title: 'Dr. Jagannathan Sarangapani'
   subtitle: 'Missouri University Of Science And Technology, Rolla'
 - file: sabrina-senatore.jpg
-  title: 'Sabrina Senatore'
+  title: 'Dr. Sabrina Senatore'
   subtitle: 'University of Salerno, Italy'
 - file: sundaram-suresh.jpg
-  title: 'Sundaram Suresh'
+  title: 'Dr. Sundaram Suresh'
   subtitle: 'NTU, Singapore'
 - file: deepak-puthal.jpg
-  title: 'Deepak Puthal'
+  title: 'Dr. Deepak Puthal'
   subtitle: 'University of Technology Sydney, Australia'
 - file: farookh-hussain.jpg
-  title: 'Farookh Hussain'
+  title: 'Dr. Farookh Hussain'
   subtitle: 'University of Technology Sydney, Australia'
 - file: risto.jpg
-  title: 'Risto Miikkulainen'
+  title: 'Dr. Risto Miikkulainen'
   subtitle: 'University of Texas at Austin and VP of Research at Sentient Technologies'
 ---
