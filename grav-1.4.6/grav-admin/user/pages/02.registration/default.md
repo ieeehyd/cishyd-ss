@@ -27,5 +27,5 @@ Lunch, coffee breaks, banquet and local tour.
 Registration Kit.  
 A certificate for participation of the - IEEE CIS 2018 Summer School  
   
-Registration deadline: **15th June 2018**  
+Registration deadline: **15th September 2018**  
 Payment methods: Online payment (VISA, MasterCard, Net Banking)

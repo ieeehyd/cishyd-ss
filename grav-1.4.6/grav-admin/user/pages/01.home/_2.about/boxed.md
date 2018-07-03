@@ -4,10 +4,12 @@ attrs:
     class: about
     id: about
 ---
-# About
-<br>
-Recent spurt in adoption of computational intelligence based techniques by Industry giants for commercial use has created a demand to reskill the young professionals. Also, many startups that provide computational intelligence based solutions to customers have sprung up and are on lookout for graduate students who have prior exposure and working knowledge in computational intelligence. This in turn has led to a requirement to provide additional skills to new job aspirants. This summer schools attempts to fulfill the above requirements through a balanced program design incorporating theory, implementation and applications of computational intelligence technologies.
-<br><br>
+# About  
+  
+Artificial Intelligence has now become the most sought after technology in the industry and research. Computational Intelligence is the evolution of AI technology and its seen by adoption of computational intelligence based techniques by Industry giants for commercial use. There is a tremendous requirement for skilling  young professionals with these novel approaches. Also, many startups have spotted business opportunities that provide computational intelligence based solutions to customers.  
+  
+Those advanced  students at Masters or Doctoral would most benefit from this experience. Professionals who have prior exposure and working knowledge in computational intelligence may also find it useful. This summer school attempts to fulfill the above requirements through a balanced program incorporating theory, implementation and applications of computational intelligence technologies.  
+  
 ### Objectives
 ---
 * Provide a forum for participants to network, foster innovations, exchange of ideas, explore job opportunities and community connect
