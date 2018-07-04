@@ -1,5 +1,5 @@
 ---
-title: 'Speakers (Tentative)'
+title: 'Speakers'
 attrs:
   class: speakers
   id: speakers
@@ -33,4 +33,10 @@ images:
 - file: risto.jpg
   title: 'Dr. Risto Miikkulainen'
   subtitle: 'University of Texas at Austin and VP of Research at Sentient Technologies'
+- file: avik.jpg
+  title: Dr. Avik Bhattacharya
+  subtitle: IITB, Mumbai, India
+- file: ashish.jpg
+  title: Dr. Ashish Ghosh
+  subtitle: Indian Statistical Institute, Kolkata, India
 ---
