@@ -41,13 +41,21 @@ nav .nav-link:hover{
   color: #E84A43 !important;
 }
 
-main, .hero, .about, .speakers {
+main, .hero, .about, .speakers, .generic {
   padding: 50px 0px;
 }
 
-.hero {
+.hero, .generic {
   padding-top: 80px;
   background-color: #151A2C;
+}
+
+.hero .jumbotron, .about .jumbotron{
+  text-align: center;
+}
+
+.about .jumbotron li{
+  text-align: left;
 }
 
 .about{

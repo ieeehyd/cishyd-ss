@@ -9,16 +9,15 @@ The program is divided into several thematic areas. The thematic areas are as gi
 #### Theme 1: Artificial Neural Network & Applications
 1. Metacognitive Neural Network 
 2. Meta-Cognitive Radial Basis Function Network
-3. Type-2 fuzzy inference system
-4. Spiking Neural Network
-5. Neuroevolution
-6. Recurrent Neural Network
-7. Neural Network Topologies
-8. Reinforcement learning
-9.  Deep convolutional Neural Networks
-10. Complex-valued neural networks
-11. Deep Learning ANN
-12. Cognitive Neural Network
+3. Spiking Neural Network
+4. Neuroevolution
+5. Recurrent Neural Network
+6. Neural Network Topologies
+7. Reinforcement learning
+8.  Deep convolutional Neural Networks
+9.  Complex-valued neural networks
+10. Deep Learning ANN
+11. Cognitive Neural Network
   
 #### Theme 2: Evolutionary Computational Techniques
 1. Swarm Intelligence
@@ -32,12 +31,13 @@ The program is divided into several thematic areas. The thematic areas are as gi
 9. Differential evolution algorithm
   
 #### Theme 3: Fuzzy Logic Techniques
-1. Meta-cognitive-based scaffolding fuzzy neural network
-2. Generalized fuzzy models
-3. Recurrent fuzzy Neural Network
-4. Fuzzy Clustering
-5. MIMO Nonlinear Systems
-6. Fault prognostics schemes
+1. Type-2 fuzzy inference system
+2. Meta-cognitive-based scaffolding fuzzy neural network
+3. Generalized fuzzy models
+4. Recurrent fuzzy Neural Network
+5. Fuzzy Clustering
+6. MIMO Nonlinear Systems
+7. Fault prognostics schemes
   
 #### Theme 4: CI for BDA ( CI for Big Data Analytics)
 1. Artificial Intelligent Technology
