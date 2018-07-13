@@ -17,9 +17,7 @@ For foreign delegates: **USD 400**
 
 Note: *Above fee structure is excluding boarding and lodging expenses.* 
 
-Accommodation
-facilities are extended on first come first served basis. There are some very good
-hotels nearby the venue at reasonable rates.
+There are some very good hotels in the proximity of the venue which offer accommodation at reasonable rates.
 
 **Registration fee includes:**  
 Access to all lectures.  
