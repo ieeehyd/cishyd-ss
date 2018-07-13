@@ -29,3 +29,9 @@ A certificate for participation of the - IEEE CIS 2018 Summer School
   
 Registration deadline: **15th September 2018**  
 Payment methods: Online payment (VISA, MasterCard, Net Banking)
+
+[**Register Now**](https://www.payumoney.com/events/#/buyTickets/cis-ss2018)  
+  
+For any queries, please contact:  
+IEEE Computational Intelligence Society, Hyderabad Chapter  
+**Email**: cishyd-ss@ieeehyd.org
