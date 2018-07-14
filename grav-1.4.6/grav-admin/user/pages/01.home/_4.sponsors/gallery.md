@@ -9,8 +9,4 @@ images:
 - file: ieeecis.png
 - file: ieeehyd.png
 - file: mjcet.png
-- file: ieeegrss.png
-- file: nvidia.png
-- file: t-hub.png
-- file: mathworks.png
 ---

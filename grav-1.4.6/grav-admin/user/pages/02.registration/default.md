@@ -17,9 +17,7 @@ For foreign delegates: **USD 400**
 
 Note: *Above fee structure is excluding boarding and lodging expenses.* 
 
-Accommodation
-facilities are extended on first come first served basis. There are some very good
-hotels nearby the venue at reasonable rates.
+There are some very good hotels in the proximity of the venue which offer accommodation at reasonable rates.
 
 **Registration fee includes:**  
 Access to all lectures.  
@@ -29,3 +27,9 @@ A certificate for participation of the - IEEE CIS 2018 Summer School
   
 Registration deadline: **15th September 2018**  
 Payment methods: Online payment (VISA, MasterCard, Net Banking)
+
+[**Register Now**](https://www.payumoney.com/events/#/buyTickets/cis-ss2018)  
+  
+For any queries, please contact:  
+IEEE Computational Intelligence Society, Hyderabad Chapter  
+**Email**: cishyd-ss@ieeehyd.org
