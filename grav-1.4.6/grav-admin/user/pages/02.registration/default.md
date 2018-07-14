@@ -9,9 +9,9 @@ For Indian delegates:
 
 | Participant Type | IEEE      | Non-IEEE  |
 | :--------------: | :-------- | :-------- |
-| Student          | ₹ 5000/-  | ₹ 8000/-  |
-| Academia         | ₹ 8000/-  | ₹ 10000/- |
-| Industry         | ₹ 12000/- | ₹ 14000/- |
+| Student          | ₹ 6500/-  | ₹ 8000/-  |
+| Academia         | ₹ 9000/-  | ₹ 10000/- |
+| Industry         | ₹ 13000/- | ₹ 16000/- |
 
 For foreign delegates: **USD 400**
 
