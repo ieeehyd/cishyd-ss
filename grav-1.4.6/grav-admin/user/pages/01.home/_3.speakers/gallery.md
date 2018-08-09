@@ -4,7 +4,7 @@ attrs:
   class: speakers
   id: speakers
 image_dir: speakers
-row_size: 3
+row_size: 4
 images:
 - file: janez-brest.png
   title: 'Dr. Janez Brest'
@@ -36,7 +36,4 @@ images:
 - file: avik.jpg
   title: Dr. Avik Bhattacharya
   subtitle: IITB, Mumbai, India
-- file: ashish.jpg
-  title: Dr. Ashish Ghosh
-  subtitle: Indian Statistical Institute, Kolkata, India
 ---
