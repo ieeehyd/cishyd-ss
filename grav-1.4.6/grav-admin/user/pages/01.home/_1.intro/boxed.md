@@ -6,7 +6,7 @@ attrs:
 ---
 # IEEE Hyderabad CIS Summer School 2018
 ### Computational Intelligence: Theory, Implementation and Applications
-#### 22-28 November 2018  
+#### 22nd - 27th November 2018  
 ---
 IEEE CIS Summer School at Hyderabad invites participation from researchers, faculty, students and professionals. It shall provide a unique opportunity to meet and listen to leading international experts working on cutting edge technologies of computational intelligence. The program is designed to give  an exposure to theory with hands-on interactions. It also gives an industry exposure with AI startups at T-Hub, the famous Hyderabad Startups Center.  
   

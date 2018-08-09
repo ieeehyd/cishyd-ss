@@ -6,9 +6,9 @@ attrs:
 ---
 # About  
   
-Artificial Intelligence has now become the most sought after technology in the industry and research. Computational Intelligence is the evolution of AI technology and its seen by adoption of computational intelligence based techniques by Industry giants for commercial use. There is a tremendous requirement for skilled  young professionals with these novel approaches. Also, many startups have spotted business opportunities that provide computational intelligence based solutions to customers.  
+Artificial Intelligence is now the most sought after technology in industry and research. Computational Intelligence (CI) is the evolution of AI technology and adopted by industry giants for commercial use. Many start-ups have spotted business opportunities that provide CI based solutions to customers. The greatest issue with CI in India and globally is that of manpower, training and awareness of the latest cutting edge. Hence there is a strong need for developing skills in the areas of CI technology know how and implementations. This requirement motivated IEEE Hyderabad Chapter to organize a summer school with the support of IEEE CIS.
   
-The students pursuing Masters and Doctoral programmes would benefit the most from this experience. Professionals who have prior exposure and working knowledge in computational intelligence may also find it useful. This summer school attempts to fulfill the above requirements through a balanced program incorporating theory, implementation and applications of computational intelligence technologies.  
+The present program comprises of tutorials and hands-on session by renowned distinguished speakers both from industry and academia. It is designed for young professionals working in IT industry, graduate student members, post-doc and young researchers who want to develop skills in computational intelligence and related areas. The main objective is to stimulate participants’ interests in rapidly evolving fields of CI. The participants would get an opportunity to connect with peer researchers, local industry and academicians working in the areas of CI. A tour to T-Hub, the famous Hyderabad Start-ups Center is planned where participants would be meeting the innovators from AI start-ups.
   
 ### Objectives
 ---
