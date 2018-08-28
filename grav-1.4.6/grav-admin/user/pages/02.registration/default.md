@@ -7,13 +7,19 @@ slug: registration
 #### Registration Fees
 For Indian delegates:  
   
-| Participant Type | IEEE      | Non-IEEE  |  
-| :--------------: | :-------- | :-------- |  
-| Student          | ₹ 6500/-  | ₹ 8000/-  |  
-| Academia         | ₹ 9500/-  | ₹ 13000/- |  
-| Industry         | ₹ 9500/-  | ₹ 16000/- |  
+| Participant Type | IEEE     | Non-IEEE  |
+| :--------------: | :------- | :-------- |
+| Student          | ₹ 6500/- | ₹ 8000/-  |
+| Academia         | ₹ 9500/- | ₹ 13000/- |
+| Industry         | ₹ 9500/- | ₹ 16000/- |
   
-For foreign delegates: **USD 400**  
+For foreign delegates: 
+
+| Participant Type  | Cost    |
+| :---------------: | :------ |
+| IEEE Student      | $ 150/- |
+| IEEE Professional | $ 250/- |
+| Others            | $ 450/- |
   
 Note: *Above fee structure is excluding boarding and lodging expenses.*  
   

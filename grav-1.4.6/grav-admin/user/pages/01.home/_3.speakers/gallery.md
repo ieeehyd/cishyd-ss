@@ -36,4 +36,7 @@ images:
 - file: avik.jpg
   title: Dr. Avik Bhattacharya
   subtitle: IITB, Mumbai, India
+- file: ashish.jpg
+  title: Dr. Ashish Ghosh
+  subtitle: ISI, Kolkata, India
 ---
