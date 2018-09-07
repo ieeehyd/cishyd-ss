@@ -24,9 +24,6 @@ images:
 - file: sundaram-suresh.jpg
   title: 'Dr. Sundaram Suresh'
   subtitle: 'NTU, Singapore'
-- file: deepak-puthal.jpg
-  title: 'Dr. Deepak Puthal'
-  subtitle: 'University of Technology Sydney, Australia'
 - file: farookh-hussain.jpg
   title: 'Dr. Farookh Hussain'
   subtitle: 'University of Technology Sydney, Australia'
@@ -39,4 +36,7 @@ images:
 - file: ashish.jpg
   title: Dr. Ashish Ghosh
   subtitle: ISI, Kolkata, India
+- file: alok.png
+  title: Dr. Alok Singh
+  subtitle: University of Allahabad, India
 ---
