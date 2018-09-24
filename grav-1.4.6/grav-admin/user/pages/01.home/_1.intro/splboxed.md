@@ -17,3 +17,4 @@ Those participants who wish to discuss their on going work with the experts may 
   
 During the Summer School posters will have to be displayed in a proper poster format, the details of the poster format will be duly provided.  
   
+**[Submit Now](https://easychair.org/cfp/SSCITIA2018)**
