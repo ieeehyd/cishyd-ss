@@ -38,5 +38,5 @@ images:
   subtitle: ISI, Kolkata, India
 - file: alok.png
   title: Dr. Alok Singh
-  subtitle: University of Allahabad, India
+  subtitle: University of Hyderabad, India
 ---
