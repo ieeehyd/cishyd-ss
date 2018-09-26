@@ -14,14 +14,6 @@ For Indian delegates:
 | Academia         | ₹ 7125/- | ₹ 9750/-  |
 | Industry         | ₹ 7125/- | ₹ 12000/- |
   
-For foreign delegates: 
-
-| Participant Type  | Cost    |
-| :---------------: | :------ |
-| IEEE Student      | $ 150/- |
-| IEEE Professional | $ 250/- |
-| Others            | $ 400/- |
-  
 Note: *Above fee structure is excluding boarding and lodging expenses.*  
   
 [**Register Here**](https://www.payumoney.com/events/#/buyTickets/cis-ss2018)  
