@@ -8,11 +8,11 @@ slug: registration
 <h5 style="font-weight: 400; color: red; padding: 20px 0px;">Early Bird Registration: 25% discount upto October 15th 2018</h5>
 For Indian delegates:  
   
-| Participant Type | IEEE     | Non-IEEE  |
-| :--------------: | :------- | :-------- |
-| Student          | ₹ 4875/- | ₹ 6000/-  |
-| Academia         | ₹ 7125/- | ₹ 9750/-  |
-| Industry         | ₹ 7125/- | ₹ 12000/- |
+| Participant Type | IEEE                        | Non-IEEE                      |
+| :--------------: | :-------------------------- | :---------------------------- |
+| Student          | <s>₹ 6500/-</s><br>₹ 4875/- | <s>₹ 8000/-</s><br>₹ 6000/-   |
+| Academia         | <s>₹ 9500/-</s><br>₹ 7125/- | <s>₹ 13000/-</s><br>₹ 9750/-  |
+| Industry         | <s>₹ 9500/-</s><br>₹ 7125/- | <s>₹ 16000/-</s><br>₹ 12000/- |
   
 Note: *Above fee structure is excluding boarding and lodging expenses.*  
   
