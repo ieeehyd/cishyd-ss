@@ -10,5 +10,4 @@ images:
 - file: ieeehyd.png
 - file: ieeegrss.png
 - file: mjcet.png
-- file: ieee-ic.png
 ---
