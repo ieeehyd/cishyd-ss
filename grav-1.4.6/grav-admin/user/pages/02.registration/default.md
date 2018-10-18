@@ -5,7 +5,7 @@ slug: registration
 # Registration
 ---
 #### Registration Fees
-<h5 style="font-weight: 400; color: red; padding: 20px 0px;">Early Bird Registration: 25% discount upto October 15th 2018</h5>
+<h5 style="font-weight: 400; color: red; padding: 20px 0px;">Early Bird Registration: 25% discount upto <s style="color: black;">October 15th 2018</s> October 30th 2018</h5>
 For Indian delegates:  
   
 | Participant Type | IEEE                        | Non-IEEE                      |
