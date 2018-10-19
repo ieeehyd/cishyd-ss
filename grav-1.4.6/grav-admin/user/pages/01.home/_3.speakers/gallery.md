@@ -39,4 +39,7 @@ images:
 - file: alok.png
   title: Dr. Alok Singh
   subtitle: University of Hyderabad, India
+- file: akira.jpg
+  title: Dr. Akira Hirose
+  subtitle: University of Tokyo, Japan
 ---
