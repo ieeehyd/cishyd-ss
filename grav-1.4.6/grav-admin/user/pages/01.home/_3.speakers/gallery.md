@@ -4,7 +4,7 @@ attrs:
   class: speakers
   id: speakers
 image_dir: speakers
-row_size: 4
+row_size: 5
 images:
 - file: janez-brest.png
   title: 'Dr. Janez Brest'
@@ -42,4 +42,7 @@ images:
 - file: akira.jpg
   title: Dr. Akira Hirose
   subtitle: University of Tokyo, Japan
+- file: anand.png
+  title: Dr. Anand Parey
+  subtitle: IIT Indore, India
 ---
