@@ -4,8 +4,8 @@ slug: registration
 ---
 # Registration
 ---
+<h5 style="font-weight: 400; color: red; padding-bottom: 10px;">Registration closed. For any special requests, please write to the chair.</h5>
 #### Registration Fees
-<h5 style="font-weight: 400; color: red; padding: 20px 0px;">Early Bird Registration: 25% discount upto <s style="color: black;">October 15th 2018</s> October 30th 2018</h5>
 For Indian delegates:  
   
 | Participant Type | IEEE                        | Non-IEEE                      |
@@ -15,11 +15,6 @@ For Indian delegates:
 | Industry         | <s>₹ 9500/-</s><br>₹ 7125/- | <s>₹ 16000/-</s><br>₹ 12000/- |
   
 Note: *Above fee structure is excluding boarding and lodging expenses.*  
-  
-[**Register Here**](https://www.payumoney.com/events/#/buyTickets/cis-ss2018)  
-Payment methods: Online payment (VISA, MasterCard, Net Banking)  
-  
-Registrations are limited to **80 participants** on first come, first served basis and last date for registration is <span style="color: red; ">5th November, 2018.</span>  
   
 Registration includes program kit, working lunch, high tea, certificate.  
   
