@@ -16,11 +16,6 @@ For Indian delegates:
   
 Note: *Above fee structure is excluding boarding and lodging expenses.*  
   
-[**Register Here**](https://www.payumoney.com/events/#/buyTickets/cis-ss2018)  
-Payment methods: Online payment (VISA, MasterCard, Net Banking)  
-  
-Registrations are limited to **80 participants** on first come, first served basis and last date for registration is <span style="color: red; ">5th November, 2018.</span>  
-  
 Registration includes program kit, working lunch, high tea, certificate.  
   
 #### Target Audience  
