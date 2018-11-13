@@ -8,11 +8,11 @@ slug: registration
 #### Registration Fees
 For Indian delegates:  
   
-| Participant Type | IEEE                        | Non-IEEE                      |
-| :--------------: | :-------------------------- | :---------------------------- |
-| Student          | <s>₹ 6500/-</s><br>₹ 4875/- | <s>₹ 8000/-</s><br>₹ 6000/-   |
-| Academia         | <s>₹ 9500/-</s><br>₹ 7125/- | <s>₹ 13000/-</s><br>₹ 9750/-  |
-| Industry         | <s>₹ 9500/-</s><br>₹ 7125/- | <s>₹ 16000/-</s><br>₹ 12000/- |
+| Participant Type | IEEE     | Non-IEEE  |
+| :--------------: | :------- | :-------- |
+| Student          | ₹ 6500/- | ₹ 8000/-  |
+| Academia         | ₹ 9500/- | ₹ 13000/- |
+| Industry         | ₹ 9500/- | ₹ 16000/- |
   
 Note: *Above fee structure is excluding boarding and lodging expenses.*  
   
